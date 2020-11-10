@@ -8,9 +8,9 @@ GIT
       decidim-core
 
 GIT
-  remote: https://github.com/decidim/decidim.git
-  revision: c8eb9b3b1d3442f06b9f90d766b82ff13c88223a
-  branch: develop
+  remote: https://github.com/armandfardeau/decidim.git
+  revision: 54f5c0f4e0554dce509cdb5ac2bd4768d98ad1e1
+  branch: feature/proposals-caching
   specs:
     decidim (0.24.0.dev)
       decidim-accountability (= 0.24.0.dev)
